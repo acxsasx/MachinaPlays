@@ -5,6 +5,9 @@ This contains 2 plugins and an unreal engine 4 project that combines the two. Th
 
 We will try and feed it generative labeled data and predict the ranks of any given hand of cards.
 
+Relevant UnrealEngine4 forum thread
+https://forums.unrealengine.com/showthread.php?113783-Neural-Network-A-journey-into-the-mind&p=581938&viewfull=1#post581938
+
 In the future i hope to explore many other machine learning fun. Like generating anything from music to art, maybe we could create a robot to create games and finally have one of those Make a Game button.
 
 # MIT License
